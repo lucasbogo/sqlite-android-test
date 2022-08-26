@@ -3,9 +3,8 @@ Basic sqlite test app.
 
 ## Sobre: 
 
-Aplicação básica. A finalidade deste aplicativo é de teste. Ou seja, após configurar o sqlite com o Android Studio simplesmente 
-editando o **profile** localizado em ```/etc/profile``` e especificando o uso das ferramentas já instaladas e prontas para uso no Android Studio, 
-como o sqlite.
+Aplicação básica. A finalidade deste aplicativo é de testar o Sqlite3 antes de começar qualquer aplicação real ou mais robusta.
+Ou seja, após configurar o sqlite com o Android Studio simplesmente editando o **profile** localizado em ```/etc/profile``` e especificando o uso das ferramentas já instaladas e prontas para uso no Android Studio, como o sqlite.
 
 ### Tutorial:
 
